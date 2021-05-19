@@ -1,4 +1,4 @@
-package functions;
+package functions.lambdas;
 
 class DistanceCalculatorDefaultImpl implements DistanceCalculator{
 

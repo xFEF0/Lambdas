@@ -1,6 +1,6 @@
-package functions;
+package functions.lambdas;
 
-public class MainFunctions {
+public class MainLambdas {
 
     public static void main(String ...args) {
         OrderManagement orderManagement = new OrderManagement(new DistanceCalculatorDefaultImpl());

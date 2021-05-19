@@ -1,4 +1,4 @@
-package functions;
+package functions.lambdas;
 
 public class GoogleDistanceCalculator {
 
