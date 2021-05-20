@@ -8,4 +8,5 @@ public interface MyListParameterized<T> extends Iterable<T> {
     Object[] toArray();
     int size();
     boolean contains(Object o);
+    boolean containsAll(MyListParameterized<?> c);
 }
