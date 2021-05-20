@@ -12,7 +12,7 @@ public class MainFunctionBiFunction {
 
     private static final Double DISCOUNT_RATE = 0.1;
 
-    public static void main(String ...args) {
+    public static void main(String[] args) {
         Map<Integer, String> map = new HashMap<>();
         map.put(1, "one");
         map.put(2, "two");

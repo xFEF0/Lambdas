@@ -5,7 +5,7 @@ public class Product {
     private int id;
     private double price;
 
-    Product(int id, double price) {
+    protected Product(int id, double price) {
         this.id = id;
         this.price = price;
     }

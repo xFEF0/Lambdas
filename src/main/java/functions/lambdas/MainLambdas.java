@@ -2,7 +2,7 @@ package functions.lambdas;
 
 public class MainLambdas {
 
-    public static void main(String ...args) {
+    public static void main(String[] args) {
         OrderManagement orderManagement = new OrderManagement(new DistanceCalculatorDefaultImpl());
 
         orderManagement.setDistanceCalculator(new DistanceCalculator() {
