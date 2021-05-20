@@ -1,6 +1,5 @@
-package generics;
+package generics.demos;
 
-import java.lang.reflect.ParameterizedType;
 import java.util.ArrayList;
 import java.util.List;
 

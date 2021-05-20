@@ -1,4 +1,4 @@
-package generics;
+package generics.demos;
 
 public class GenericDemo3<T> {
 
